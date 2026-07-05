@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on BinTrio — Android + Firebase + ESP32 Smart Dustbin Project<br><br>👯 I’m looking to collaborate on Android, Firebase and IoT based smart projects<br><br>🤝 I’m looking for help with ESP32-CAM face recognition and camera-based waste detection<br><br>🌱 I’m currently learning Kotlin, Android Development, Firebase, ESP32, IoT and UI/UX<br><br>💬 Ask me about Android, Kotlin, Firebase, ESP32, IoT and BinTrio<br><br>⚡ Fun fact I am building an app that rewards people for keeping the environment clean
+## Hi, Dev Yadav
+
+## 💫 About Me
+
+🔭 Building **BinTrio** — a gamified smart waste-management app with Android, Firebase and ESP32.
+
+🌱 Learning **Kotlin, Firebase, Android Development, ESP32 and IoT**.
+
+🛠️ Focused on building real-world Android + IoT projects with clean UI and useful features.
+
+⚡ Creating tech that connects software, hardware and real-world impact.
 
 ---
 
