@@ -14,7 +14,7 @@ My focus is on creating real-world projects using **Android, Kotlin, Firebase, E
 - 🔭 Currently working on **BinTrio**
 - 🌱 Learning **Kotlin, Firebase, Android Development, ESP32, and IoT**
 - 💡 Interested in **smart apps, hardware integration, and product-style projects**
-- 📫 Reach me at **yadavdev7474@gmail.com**
+- 📫 Reach me at **devyadav54981@gmail.com**
 
 
 ## 🗑️ Featured Project: BinTrio
